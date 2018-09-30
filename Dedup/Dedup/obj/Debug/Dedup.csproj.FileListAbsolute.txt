@@ -1,0 +1,16 @@
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\bin\Debug\Dedup.exe.config
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\bin\Debug\Dedup.exe
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\bin\Debug\Dedup.pdb
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\Dedup.csprojResolveAssemblyReference.cache
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\MainWindow.g.cs
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\TreeViewForm.g.cs
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\App.g.cs
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\Dedup_MarkupCompile.cache
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\Dedup_MarkupCompile.lref
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\MainWindow.baml
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\TreeViewForm.baml
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\Dedup.g.resources
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\Dedup.Properties.Resources.resources
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\Dedup.csproj.GenerateResource.Cache
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\Dedup.exe
+E:\Himanshu\BITS\Project Work\Code\Dedup\Dedup\obj\Debug\Dedup.pdb
